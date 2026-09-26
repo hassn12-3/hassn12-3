@@ -1,7 +1,7 @@
 # Hi there, I'm Hassan Naseer 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hassn12-3&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ### 🤖 AI Automation Engineer & Full-Stack Developer
@@ -52,7 +52,9 @@ I specialize in building production-grade **Retrieval-Augmented Generation (RAG)
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hassn12-3&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassn12-3&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
